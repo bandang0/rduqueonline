@@ -11,7 +11,7 @@ showhead: true
 
 Sample output:
 
-<img src="https://bandang0.github.io/rduqueonline/img/astro_reduce.png" width=50% height=auto/>
+<img src="https://bandang0.github.io/rduqueonline/img/astro_reduce.png" style="height: auto; width:50%;" />
 
 ### The Automatic Astrophysical Model Generator (AAMG)
 
