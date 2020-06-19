@@ -1,11 +1,6 @@
-
 title: Raphaël Duque
 author: Raphaël Duque
 email: duque@iap.fr
 description: Personal website
-
-url: "https://bandang0.github.io/rduqueonline" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
+url: "https://bandang0.github.io/rduqueonline"
 theme: jekyll-theme-cayman
