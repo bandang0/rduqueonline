@@ -1,1 +1,12 @@
+
+title: Raphaël Duque
+author: Raphaël Duque
+email: duque@iap.fr
+description: >
+  theia: a 3D Gaussian Beam Tracer for Gravitational Interferometers
+
+url: "https://bandang0.github.io/rduqueonline" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-cayman

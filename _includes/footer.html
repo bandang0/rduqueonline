@@ -1,0 +1,26 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h2 class="footer-heading"> <span style="color: #000000">
+          <p> Institut d'Astrophysique de Paris </p>
+          <p> 98bis boulevard Arago 75014 Paris </p>
+          <p> +33 1 44 32 80 00 </p>        <ul class="contact-list">
+          <li>
+              {{ site.author | escape }}
+            </li>
+            {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {% endif %}
+        </ul>
+        <i> © 2020 Raphaël Duque </i>
+      </div>
+      <div class="footer-col footer-col-2">
+
+      </div>
+      <div class="footer-col footer-col-3">
+        <p><i> <img src="{{site.url}}/img/sponsors.png", width = 80/></i></p>
+      </div>
+    </div>
+  </div>
+</footer>
