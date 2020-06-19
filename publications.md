@@ -4,7 +4,7 @@ title: Publications
 showhead: true
 ---
 
-A list of my publications as referenced by the ADS can be found [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22duque%2C%20r%22%20AND%20year%3A20**%20AND%20collection%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+A list of my publications as referenced by the ADS can be found [here](https://ui.adsabs.harvard.edu/search/q=author%3A%22duque%2C%20r%22%20AND%20year%3A20**%20AND%20collection%3Aastronomy&sort=date%20desc%2C%20bibcode%20desc&p_=0).
 
 A selected list can be found in the following:
 
