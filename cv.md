@@ -8,6 +8,7 @@ showhead: true
 * **since 2018:** Graduate Studies in Astrophysics -- Sorbonne Université (Paris, France) *Ph.D. Dissertation entitled "The Physics of Gamma-ray Bursts in the Gravitational Era" (defence expected in June 2021)*
 * **2017 -- 2018:** Master's degree in Astronomy, Astrophysics and Spatial Engineering -- Université Paris-Diderot (Paris, France) *Specializing in Compact objects and High Energy Astrophysics*
 * **2014 -- 2017:** École Polytechnique -- Université Paris-Saclay (Palaiseau, France) *Polytechnique Multidisciplinary Engineering Diploma, specializing in Astrophysics and High Energy Physics -- Prize for remarkable final internship at the European Gravitational Observatory (Cascina, Italy)*
+* **2012 -- 2014:** Scientific preparatory cursus at *Collège Stanislas*
 
 ### Teaching Experience
 * **Summer of 2019:** Tutored M2-level interns in gamma-ray burst modelling at the IAP *Entailed guiding analytical and numerical calculations in relativistic dynamics and radiation transfer within relativistic fluids*
