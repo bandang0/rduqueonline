@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Curriculum Vitae
 showhead: true
 ---
 
