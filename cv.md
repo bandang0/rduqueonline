@@ -4,4 +4,4 @@ title: CV
 showhead: true
 ---
 
-<embed src="https://bandang0.github.io/rduqueonline/img/CV_Duque.pdf" type="application/pdf" />
+<img src="https://bandang0.github.io/rduqueonline/img/CV_Duque.png" style="height: auto; width:100%;" />
