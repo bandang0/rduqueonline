@@ -7,11 +7,7 @@ showhead: true
 
 ### AstroReduce
 
-[AstroReduce](https://github.com/bandang0/astro_reduce) is a simple astronomical image reduction program commissioned by the Observatoire de Paris for fast and straightforward reduction of series of images during pedagogical observing sessions at the Observatoire de Haute-Provence. In addition to reducing stacks of astronomical images, AstroReduce interfaces with the [Astromatic](https://github.com/astromatic) software suite for rapid source extraction, photometry and astrometry. It is under continuous development, do contact me to contribute!
-
-Sample output:
-
-<img src="https://bandang0.github.io/rduqueonline/img/astro_reduce.png" style="height: auto; width:50%" align="left"/>
+<img src="https://bandang0.github.io/rduqueonline/img/astro_reduce.png" style="height: auto; width:50%; padding: 15px;" align="left"/> [AstroReduce](https://github.com/bandang0/astro_reduce) is a simple astronomical image reduction program commissioned by the Observatoire de Paris for fast and straightforward reduction of series of images during pedagogical observing sessions at the Observatoire de Haute-Provence. In addition to reducing stacks of astronomical images, AstroReduce interfaces with the [Astromatic](https://github.com/astromatic) software suite for rapid source extraction, photometry and astrometry. It is under continuous development, do contact me to contribute!
 
 ### The Automatic Astrophysical Model Generator (AAMG)
 
