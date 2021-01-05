@@ -5,15 +5,15 @@ showhead: true
 ---
 #### Enseignement de physique statistique du M1 SUTS (Observatoire de Paris)
 
-* [Sujet du DM3](docs/DM3.pdf), à rendre le 2 décembre 2020
+* [Sujet du DM3](docs/DM3.pdf), à rendre le 2 décembre 2020.
 
 #### Enseignement méthodologique IMA2 du M1 SUTS
 
-* Mémo pour l'utilisation du télescope MEADE (cabane "Caroline") à l'usage des étudiants de M1: [Mémo d'utilisation](docs/memo_meade.pdf)
+* [Mémo pour l'utilisation](docs/memo_meade.pdf) du télescope MEADE (cabane "Caroline") à l'usage des étudiants de M1.
 
 #### Enseignement au DU ECU (Observatoire de Paris)
 
-* Énoncé du TP sur le télescope de 120cm lors du stage à l'OHP du DU ECU: [Énoncé](docs/TPT120.pdf)
+* [Énoncé](docs/TPT120.pdf) du TP sur le télescope de 120cm lors du stage à l'OHP du DU ECU.
 
 #### Diffusion des connaissances (Outreach)
 
