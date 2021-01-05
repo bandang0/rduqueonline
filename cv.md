@@ -4,5 +4,4 @@ title: Curriculum Vitae
 showhead: true
 ---
 
-<img src="https://bandang0.github.io/rduqueonline/img/CV_Duque-1.png" style="height: auto; width:80%" />
-<img src="https://bandang0.github.io/rduqueonline/img/CV_Duque-2.png" style="height: auto; width:80%" />
+<embed src="https://bandang0.github.io/CV_Duque.pdf" type="application/pdf" width="80%" height="auto"/>
