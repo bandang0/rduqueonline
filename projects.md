@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Projects
-permalink: /img/
 showhead: true
 ---
 
