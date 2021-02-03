@@ -8,6 +8,7 @@ A list of my publications as referenced by the NASA ADS can be found [here](http
 
 Here is a selection:
 
+* **arXiv:2012.12836:** What role will binary neutron star merger afterglows play in multimessenger cosmology?. *S. Mastrogiovanni, R. Duque, E. Chassande-Mottin, F. Daigne, R.Mochkovitch*
 * **A&A 639 (2020):** Probing high-density neutron star mergers with afterglow counterparts, *R. Duque, P. Beniamini, F. Daigne, R. Mochkovitch*
 * **MNRAS 492 (2020):** X-ray plateaus in gamma-ray bursts' light curves from jets viewed slightly off-axis, *P. Beniamini, R. Duque, F. Daigne, R. Mochkovitch*
 * **A&A 631 (2019):** Radio afterglows of binary neutron star mergers: a population study for current and future gravitational wave observing runs, *R. Duque, F. Daigne, R. Mochkovitch*
