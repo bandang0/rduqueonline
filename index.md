@@ -5,7 +5,7 @@ layout: home
 
 ## Welcome!
 
-I am a high-energy astrophysics graduate student at the [Institut d'Astrophysique de Paris](http://www.iap.fr/) (CNRS/Sorbonne Université). Prof. Frédéric Daigne and Dr. Robert Mochkovitch are my doctoral advisors, and my Ph.D. dissertation is entitled "The Physics of Gamma-Ray Bursts in the Gravitational-Wave Era". I will defend it in June 2021.
+I am a high-energy astrophysics graduate student at the [Institut d'Astrophysique de Paris](http://www.iap.fr/) (CNRS/Sorbonne Université). Prof. Frédéric Daigne and Dr. Robert Mochkovitch are my doctoral advisors, and my Ph.D. dissertation is entitled "The Physics of Gamma-Ray Bursts in the Gravitational-Wave Era". I will defend it in September 2021.
 
 In October 2021 I will join the [Relativistic Astrophysics Group](https://relastro.uni-frankfurt.de/) at the Institute for Theoretical Physics, Goethe Universität Frankfurt. While there I will work on the [JETSET ERC Project](https://cordis.europa.eu/project/id/884631).
 
