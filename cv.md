@@ -4,4 +4,5 @@ title: Curriculum Vitae
 showhead: true
 ---
 
-<embed src="https://bandang0.github.io/rduqueonline/docs/CV_RDuque.pdf" type="application/pdf" style="width:100%;height:100vh;"/>
+- My [CV in English.](https://bandang0.github.io/rduqueonline/docs/CV_en.pdf)
+- Mon [CV en français.](https://bandang0.github.io/rduqueonline/docs/CV_fr.pdf)
