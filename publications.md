@@ -6,14 +6,16 @@ showhead: true
 
 A list of my publications as referenced by the NASA ADS can be found [here](https://ui.adsabs.harvard.edu/public-libraries/xb2x2Cr4Q1uZ069nbnda6g).
 
-Here is a selection:
+Here are my peer-reviewed publications:
 
-- **A&A 652 (2021)**: The potential role of binary neutron star merger afterglows in multimessenger cosmology. *Mastrogiovanni, S. ; Duque, R. ; Chassande-Mottin, E. ; Daigne, F. ; Mochkovitch, R.*
+- **MNRAS (accepted)**: Flares in gamma-ray burst X-ray afterglows as prompt emission from slightly misaligned structured jets. *Duque, R.; Beniamini, P.; Daigne, F; Mochkovitch, R.*
 
-- **A&A 651 (2021)**: Prospects for kilonova signals in the gravitational-wave era. *Mochkovitch, R. ; Daigne, F. ; Duque, R. ; Zitouni, H.*
+- **A&A 652 (2021)**: The potential role of binary neutron star merger afterglows in multimessenger cosmology. *Mastrogiovanni, S.; Duque, R.; Chassande-Mottin, E.; Daigne, F.; Mochkovitch, R.*
 
-- **A&A 639 (2020)**: Probing high-density neutron star mergers with afterglow counterparts. *Duque, R. ; Beniamini, P. ; Daigne, F. ; Mochkovitch R.*
+- **A&A 651 (2021)**: Prospects for kilonova signals in the gravitational-wave era. *Mochkovitch, R.; Daigne, F.; Duque, R.; Zitouni, H.*
 
-- **MNRAS 492 (2020)**: X-ray plateaus in gamma-ray bursts’ light curves from jets viewed slightly off-axis. *Beniamini, P. ; Duque, R. ; Daigne, F ; Mochkovitch R.*
+- **A&A 639 (2020)**: Probing high-density neutron star mergers with afterglow counterparts. *Duque, R.; Beniamini, P.; Daigne, F.; Mochkovitch R.*
 
-- **A&A 631 (2019)**: Radio afterglows of binary neutron star mergers: a population study for current and future gravitational-wave observing runs. *Duque, R. ; Daigne, F. ; Mochkovitch, R.*
+- **MNRAS 492 (2020)**: X-ray plateaus in gamma-ray bursts’ light curves from jets viewed slightly off-axis. *Beniamini, P.; Duque, R.; Daigne, F; Mochkovitch, R.*
+
+- **A&A 631 (2019)**: Radio afterglows of binary neutron star mergers: a population study for current and future gravitational-wave observing runs. *Duque, R.; Daigne, F.; Mochkovitch, R.*
