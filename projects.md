@@ -9,9 +9,9 @@ showhead: true
 <img src="https://bandang0.github.io/rduqueonline/img/m56.png" style="height: auto; width:40%; padding: 15px;" align="left"/>
 ### AstroReduce
 
-[AstroReduce](https://github.com/bandang0/astro_reduce) is a simple astronomical image reduction program commissioned by the Observatoire de Paris for fast and straightforward reduction of series of images during pedagogical observing sessions at the Observatoire de Haute-Provence. In addition to reducing stacks of astronomical images, AstroReduce interfaces with the [Astromatic](https://github.com/astromatic) software suite for rapid source extraction, photometry and astrometry.
+[AstroReduce](https://github.com/bandang0/astro_reduce) is a simple astronomical image reduction program commissioned by the *Observatoire de Paris* for fast and straightforward reduction of series of images during pedagogical observing sessions at the Observatoire de Haute-Provence. In addition to reducing stacks of astronomical images, AstroReduce interfaces with the [Astromatic](https://github.com/astromatic) software suite for rapid source extraction, photometry and astrometry.
 
-Left is an image of M56 in the R band taken with the 120cm telescope at the Observatoire de Haute Provence and cleaned-up with AstroReduce. The project is under active development, do contact me to contribute!
+Left is an image of M56 in the R band taken with the 120cm telescope at the *Observatoire de Haute Provence* and cleaned-up with AstroReduce. The project is under active development, do contact me to contribute!
 
 ### The Theia Gaussian optics simulator
 
