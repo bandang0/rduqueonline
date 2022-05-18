@@ -8,7 +8,7 @@ A list of my publications as referenced by the NASA ADS can be found [here](http
 
 Here are my peer-reviewed publications:
 
-- **MNRAS (accepted)**: Flares in gamma-ray burst X-ray afterglows as prompt emission from slightly misaligned structured jets. *Duque, R.; Beniamini, P.; Daigne, F; Mochkovitch, R.*
+- **MNRAS 513 (2022)**: Flares in gamma-ray burst X-ray afterglows as prompt emission from slightly misaligned structured jets. *Duque, R.; Beniamini, P.; Daigne, F; Mochkovitch, R.*
 
 - **A&A 652 (2021)**: The potential role of binary neutron star merger afterglows in multimessenger cosmology. *Mastrogiovanni, S.; Duque, R.; Chassande-Mottin, E.; Daigne, F.; Mochkovitch, R.*
 
