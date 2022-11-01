@@ -1,10 +1,12 @@
 ---
 layout: home
+title: English
+showhead: true
 ---
 
 
-I am a theoretical high-energy astrophysicist, currently in the [Relativistic Astrophysics Group](https://relastro.uni-frankfurt.de/) at the *Institute für Theoretische Physik*, *Goethe Universität Frankfurt-am-Main* and part of the [JETSET Advanced ERC Project](https://cordis.europa.eu/project/id/884631) (PI: Prof. Luciano Rezzolla). In September 2021, I defended my PhD thesis entitled ["Compact Object Coalescences and Gamma-Ray Bursts in the Gravitational-Wave Era"](https://bandang0.github.io/rduqueonline/docs/PGRBGWE211001_archive.pdf) which I prepared at the *Institut d'astrophysique de Paris* with Frédéric Daigne and Robert Mochkovitch.
+I am a astrophysicist working in the [Relativistic Astrophysics Group](https://relastro.uni-frankfurt.de/) at the *Institute für Theoretische Physik*, *Goethe Universität Frankfurt-am-Main*. I am a member of ["JETSET"](https://jetset-erc.org/), an Advanced ERC project.
 
-My research interests are binary neutron star mergers and their electromagnetic counterparts, relativistic jets and high-energy emission processes in general, and multi-messenger cosmology. In addition to my theoretical activity, I am invested as a Burst Advocate in the French-Chinese high-energy satellite mission [SVOM](https://www.svom.eu/#filter=.accueil) and lead optical follow-up campaigns of gravitational-wave alerts with the mission's ground segment.
+In September 2021, I defended my PhD thesis entitled ["Compact object coalescences and gamma-ray bursts in the gravitational-wave era"](https://bandang0.github.io/rduqueonline/docs/PGRBGWE211001_archive.pdf) which I prepared at the *Institut d'astrophysique de Paris*, *Sorbonne Université*.
 
-Since my years as a graduate student I have continuously taught: at the *Observatoire de Paris-Meudon*, where I tutored classes in statistical physics, astronomical observations and data analysis at the Master's level and now at the *Goethe Universität* in introductory courses to astronomy at the Bachelor's and Master's level. I try to keep an open ear towards theoretical physics through some of my friends from undergrad, with whom I shared a rather formal education in physics and mathematics. I like to use this insight to compose [problem sets for my teaching](https://bandang0.github.io/rduqueonline/teaching.html).
+Here is my [CV in English](https://bandang0.github.io/rduqueonline/docs/CV____EN.pdf) and a list of my [academic publications](https://ui.adsabs.harvard.edu/public-libraries/xb2x2Cr4Q1uZ069nbnda6g).
