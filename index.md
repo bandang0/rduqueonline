@@ -1,6 +1,6 @@
 ---
 layout: home
-title: English
+title: 🇺🇸 English
 showhead: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Français
+title: 🇫🇷 Français
 showhead: true
 ---
 
